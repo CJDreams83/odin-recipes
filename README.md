@@ -1,1 +1,1 @@
-This my first project with The Odin Project.  This going to be a simple HTML recipe website.  I'm going to use my favorite recipes.  I'm going to focus on using Semantic HTML # odin-recipes
+This my first project with The Odin Project.  This going to be a simple HTML recipe website.  I'm going to use my favorite recipes. My goal is to make the website accessible for people that use screen readers.  I'm going to do this by using Semantic HTML and alt text on every image. # odin-recipes
