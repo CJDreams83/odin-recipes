@@ -16,21 +16,22 @@ nav{
 }
 .title{
     color:white;
-    font-size: 20px;
+    font-size: 25px;
     line-height: 80px;
     padding: 0 20px;
     font-weight: bold;
 }
-nav ul{
+.recipe{
     float: right;
     margin-right: 20px;
 }
-nav ul li{
+.recipe{
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
+    padding: 2px;
 }
-nav ul li a{
+.recipe{
     color:white;
     font-size: 14px;
     text-transform: uppercase;
