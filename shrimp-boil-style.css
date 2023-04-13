@@ -3,6 +3,10 @@ nav{
     height: 80px;
     width: 100%;
 }
+img{
+    display: block;
+    max-width: 100%;
+}
 .title{
     color:white;
     font-size: 35px;
