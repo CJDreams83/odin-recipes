@@ -1,0 +1,35 @@
+
+nav{
+    background: green;
+    height: 80px;
+    width: 100%;
+}
+.title{
+    color:white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-weight: 300;
+    font-family: 'Cormorant Garamond', serif;
+}
+.recipe{
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.recipe{
+    display: inline-block;
+    align-items: center;
+    line-height: 80px;
+    margin: 0 5px;
+    padding: 2px;
+}
+.recipe{
+    color:white;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: underline;
+}
