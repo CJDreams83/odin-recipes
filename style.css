@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
     .main--container{
-       max-width: 100%;
+       width: 100%;
        display: grid;
        grid-template-columns: repeat(3,auto);
        place-content: center;
