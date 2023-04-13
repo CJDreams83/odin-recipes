@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
     .main--container{
-        width: 100%;
+       max-width: 100%;
        display: grid;
        grid-template-columns: repeat(3,auto);
        place-content: center;
@@ -21,8 +21,8 @@
        img{
            border-top-left-radius: 4px;
            border-top-right-radius: 4px;    
-           width: 300px;
-           height: 300px;
+           width: 300%;
+           height: 300%;
     }
     
         article{
@@ -72,8 +72,8 @@ button:hover {
 nav{
     background: #13aa52;
     height: 80px;
-    width: 100%;
-}
+    max-width:100%;
+} 
 .title{
     color:white;
     font-size: 35px;
